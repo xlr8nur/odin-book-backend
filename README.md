@@ -6,6 +6,6 @@ Backend for Odin Book Project in The Odin Project using;
 - Express
 - Mongoose
 
-LINK to frontend of the project;
+Link to frontend of the project;
 
 https://github.com/xlr8nur/odin-book-frontend
